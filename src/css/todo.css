@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Tajawal&display=swap");
+* {
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Tajawal', sans-serif;
+}
+
+@media (max-width: 767.98px) {
+  .header {
+    display: block !important;
+    text-align: center;
+  }
+  .container {
+    width: 100vw;
+  }
+}
+/*# sourceMappingURL=todo.css.map */

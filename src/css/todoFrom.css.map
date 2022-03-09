@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACV,KAAK,EAAE,GAAG;EACV,WAAW,EAAE,IAAI;CAClB",
+    "sources": [
+        "../components/todoFrom.scss"
+    ],
+    "names": [],
+    "file": "todoFrom.css"
+}

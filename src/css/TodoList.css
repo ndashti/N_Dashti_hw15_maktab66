@@ -1,0 +1,26 @@
+.edit-todo-input {
+  font-size: 1.7rem !important;
+}
+
+.todo-actions {
+  visibility: hidden !important;
+}
+
+.todo-item:hover .todo-actions {
+  visibility: visible !important;
+}
+
+.todo-item.editing .todo-actions .edit-icon {
+  display: none !important;
+}
+
+.todo-isdone {
+  font-size: 1.5em;
+  color: gray;
+  text-decoration: line-through;
+}
+
+.todo {
+  font-size: 1.5em;
+}
+/*# sourceMappingURL=TodoList.css.map */

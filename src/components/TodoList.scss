@@ -1,0 +1,36 @@
+.edit-todo-input {
+    font-size: 1.7rem !important;
+}
+.todo-actions {
+    visibility: hidden !important;
+}
+
+.todo-item:hover .todo-actions {
+    visibility: visible !important;
+}
+
+.todo-actions .edit-icon {
+    display: none !important;
+}
+
+.todo-isdone{
+    font-size: 1.5em;
+    color: gray;
+    text-decoration: line-through;
+    border: none;
+    &:focus{
+        outline: none;
+
+    }
+
+}
+
+.todo{
+    font-size: 1.5em;
+    border: none;
+
+    &:focus{
+        outline: none;
+    }
+}
+
